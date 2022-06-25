@@ -14,4 +14,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Disponible para todas las edades
 * Prueba 1 para guardar un stash como branch
 * Prueba 2 para modificar la rama del stash
+* Prueba 3 para hacer un tercer commit de la rama stash
+
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
